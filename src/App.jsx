@@ -156,7 +156,7 @@ function App() {
                 </p>
                 <div className="stats-grid">
                   <div className="stat-item">
-                    <span className="stat-number">7+</span>
+                    <span className="stat-number">8+</span>
                     <span className="stat-label">Years Experience</span>
                   </div>
                   <div className="stat-item">
