@@ -307,7 +307,7 @@ function App() {
                   <Mail size={24} />
                   <span>s.lokeshkumar786@gmail.com</span>
                 </a>
-                <a href="https://linkedin.com/in/lokesh" target="_blank" rel="noopener noreferrer" className="contact-link cyber-border">
+                <a href="https://linkedin.com/in/lokesh-kumar-sitha" target="_blank" rel="noopener noreferrer" className="contact-link cyber-border">
                   <LinkedIn size={24} />
                   <span>LinkedIn</span>
                 </a>
