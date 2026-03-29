@@ -164,7 +164,7 @@ function App() {
                     <span className="stat-label">Regions Managed</span>
                   </div>
                   <div className="stat-item">
-                    <span className="stat-number">50+</span>
+                    <span className="stat-number">1000+</span>
                     <span className="stat-label">Firewall Policies</span>
                   </div>
                   <div className="stat-item">
