@@ -299,10 +299,7 @@ function App() {
             </h2>
             <div className="contact-content">
               <div className="contact-links">
-                <a href="mailto:lk.s@tcs.com" className="contact-link cyber-border">
-                  <Mail size={24} />
-                  <span>lk.s@tcs.com</span>
-                </a>
+                
                 <a href="mailto:s.lokeshkumar786@gmail.com" className="contact-link cyber-border">
                   <Mail size={24} />
                   <span>s.lokeshkumar786@gmail.com</span>
