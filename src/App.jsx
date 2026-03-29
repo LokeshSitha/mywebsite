@@ -311,7 +311,7 @@ function App() {
                   <LinkedIn size={24} />
                   <span>LinkedIn</span>
                 </a>
-                <a href="https://github.com/lokesh" target="_blank" rel="noopener noreferrer" className="contact-link cyber-border">
+                <a href="https://github.com/LokeshSitha" target="_blank" rel="noopener noreferrer" className="contact-link cyber-border">
                   <GitHub size={24} />
                   <span>GitHub</span>
                 </a>
