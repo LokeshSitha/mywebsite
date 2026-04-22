@@ -27,7 +27,7 @@ const experiences = [
     title: 'IT Analyst / Network Security Engineer',
     company: 'Tata Consultancy Services (TCS) / Global Foundries',
     location: 'Germany',
-    period: 'May 2023 – Present',
+    period: 'May 2023 – April 2025',
     points: [
       'Managed enterprise firewalls (Palo Alto, Check Point, Cisco)',
       'Implemented IPSEC VPN & GlobalProtect',
@@ -150,13 +150,13 @@ function App() {
               <div className="about-card cyber-border">
                 <div className="card-glow" />
                 <p className="about-text">
-                  Network Security Engineer with 8+ years of experience designing, operating, and securing enterprise network infrastructures in global IT environments.
+                  Network Security Engineer with 9+ years of experience designing, operating, and securing enterprise network infrastructures in global IT environments.
                   Expert in firewall administration, VPN technologies, network security operations, and incident/change management.
                   Proven ability to manage multi-region environments and ensure high availability and compliance.
                 </p>
                 <div className="stats-grid">
                   <div className="stat-item">
-                    <span className="stat-number">8+</span>
+                    <span className="stat-number">9+</span>
                     <span className="stat-label">Years Experience</span>
                   </div>
                   <div className="stat-item">
